@@ -1,1 +1,3 @@
- use this skill @.claude\skills\skill-creator\SKILL.md to create project-architecture skill
+-  use this skill @.claude\skills\skill-creator\SKILL.md to create project-architecture skill
+
+-   crate a new repo in my github and rename this master brach into main branch and push all code into this repo
