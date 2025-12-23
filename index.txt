@@ -1,0 +1,1 @@
+ use this skill @.claude\skills\skill-creator\SKILL.md to create project-architecture skill
